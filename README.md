@@ -2,7 +2,7 @@
 
 ### Description of the folder - "yolov3"
 
-backup: Folder to save weights dynamically during training.
+backup: Folder containing weight saved dynamically after 1000 iterations while training.
 
 obj.data: a ".data" file containing information such as the number of classes, path to training data, and the backup folder.
 
